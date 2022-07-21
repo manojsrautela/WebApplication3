@@ -1,0 +1,15 @@
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+C:\student\azure\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.deps.json
+C:\student\azure\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.json
+C:\student\azure\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+C:\student\azure\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.dll
+C:\student\azure\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
+C:\student\azure\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb
